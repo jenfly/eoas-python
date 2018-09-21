@@ -13,7 +13,11 @@ This workshop is an introduction to Python programming for scientific computing 
  
 The curriculum is designed for incoming graduate students with no previous programming experience. Any other students, staff, or faculty in the department who would like to learn about Python are also welcome to attend.
  
-To register, please sign up here: https://goo.gl/forms/QJlUJ227m6NbOY9G2
+To register, please sign up here: [https://goo.gl/forms/QJlUJ227m6NbOY9G2](https://goo.gl/forms/QJlUJ227m6NbOY9G2)
+
+### Setup
+
+You’ll want to bring your laptop for lots of hands-on practice as we work through the lessons and exercises. Please make sure to download and install the required software on your laptop prior to the workshop. For setup instructions, please **[click here](https://jenfly.github.io/eoas-python/SETUP)**.
 
 ### Learning Goals
 
