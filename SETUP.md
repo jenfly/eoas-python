@@ -61,7 +61,7 @@ In either the Windows or the Mac version of the console, type `conda list` and t
 
 To install the libraries you'll need for the workshop, enter the following command in your console window:
 ```
-conda install jupyterlab pandas matplotlib requests cartopy
+conda install jupyterlab pandas requests matplotlib seaborn cartopy
 ```
 
 Follow the prompts to complete the installation. Then you can run the command `conda list` again in the console, and scroll through the (now much longer) list to confirm that the new libraries have been installed. As you continue to explore Python and want to try out more libraries, you can install them using the `conda install` command in the console.
