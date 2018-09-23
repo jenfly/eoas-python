@@ -20,7 +20,7 @@ However, this option **requires the most disk space&mdash;just under 6 GB** on W
 
 Click the "Download" button under the latest **Python 3** version from the **[Anaconda download page](https://www.anaconda.com/download/)** (the web page should automatically detect your operating system and provide the correct version of the installer with the "Download" button). After it finishes downloading, run the installer, making sure to use all the recommended default settings. We won't be using Microsoft Visual Studio Code, so when the installer asks if you want to install it, you can just click "Skip".
 
-It could take up to half an hour to install, so once you've walked through the initial prompts and clicked "Install", you might want to grab some lunch or go for a walk, leaving your laptop plugged in so it doesn't try to go to sleep. For more details on the intallation steps, you can check out the instructions for [Windows](https://docs.anaconda.com/anaconda/install/windows) or [Mac](https://docs.anaconda.com/anaconda/install/mac-os). *Note: the Windows installer says 3 GB free space is required, but on my computer I found that the software uses almost double that. These numbers might be a bit different on Mac.*
+It could take up to half an hour to install, so once you've walked through the initial prompts and clicked "Install", you might want to grab some lunch or go for a walk, leaving your laptop plugged in so it doesn't try to go to sleep. For more details on the intallation steps, you can check out the instructions for [Windows](https://docs.anaconda.com/anaconda/install/windows), [Mac](https://docs.anaconda.com/anaconda/install/mac-os), or [Linux](http://docs.anaconda.com/anaconda/install/linux/). *Note: the Windows installer says 3 GB free space is required, but on my computer I found that the software uses almost double that. These numbers might be a bit different on Mac or Linux.*
 
 Once you've installed the full Anaconda distribution, you'll immediately have access to all the main data analysis libraries without having to find and install them yourself!
 
@@ -59,9 +59,9 @@ In either the Windows or the Mac version of the console, type `conda list` and t
 
 #### Step 3: Install 3rd Party Libraries
 
-To install the libraries you'll need for the workshop, enter the following command in your console window:
+To install the libraries you'll need for the workshop and example notebooks, enter the following command in your console window:
 ```
-conda install jupyterlab pandas requests matplotlib seaborn cartopy
+conda install jupyterlab pandas requests matplotlib seaborn cartopy scipy sympy
 ```
 
 Follow the prompts to complete the installation. Then you can run the command `conda list` again in the console, and scroll through the (now much longer) list to confirm that the new libraries have been installed. As you continue to explore Python and want to try out more libraries, you can install them using the `conda install` command in the console.
