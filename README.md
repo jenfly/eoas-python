@@ -34,3 +34,10 @@ By the end of this workshop, participants will be able to:
   - Use techniques such as sorting, filtering, and aggregation to explore a dataset.
   - Visualize data in graphs.
   - Plot geospatial data on a map.
+
+### Credits
+
+Some portions of this workshop are adapted from or inspired by the following instructional materials, made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/):
+- [Data Insights with Python for Beginners](https://github.com/ladieslearningcode/llc-intro-to-python) (Copyright © [Ladies Learning Code](https://www.canadalearningcode.ca/program/ladies-learning-code/)) 
+- [U of T Coders Data Carpentry Workshop](https://github.com/UofTCoders/2018-09-10-utoronto) (Copyright © [Software Carpentry](http://software-carpentry.org/))
+- [Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/) (Copyright © [Software Carpentry](http://software-carpentry.org/))
