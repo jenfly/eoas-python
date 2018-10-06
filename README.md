@@ -12,8 +12,10 @@ Instructor: Jennifer Walker (jwalker@eoas.ubc.ca)
 This workshop is an introduction to Python programming for scientific computing and research. Participants will learn basic programming concepts and syntax, gain a broad understanding of Python's rich ecosystem of scientific tools, and develop skills in data management and analysis using real-world scientific data.
  
 The curriculum is designed for incoming graduate students with no previous programming experience. Any other students, staff, or faculty in the department who would like to learn about Python are also welcome to attend.
- 
-To register, please [sign up here](https://goo.gl/forms/QJlUJ227m6NbOY9G2).
+
+### Slides
+
+You can view the workshop slides online at [bit.ly/eoas-python-slides](http://bit.ly/eoas-python-slides).
 
 ### Setup
 
