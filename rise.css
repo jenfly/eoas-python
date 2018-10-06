@@ -69,7 +69,7 @@ body.rise-enabled .title-slide {
     font-size: 2.5em;
     text-align: center;
     text-transform: none;
-    
+
 }
 
 
@@ -99,4 +99,9 @@ footer {
 
 .footer-right {
     float: right;
+}
+
+/* Block quotes */
+body.rise-enabled blockquote {
+  width: 85%
 }
