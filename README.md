@@ -39,7 +39,15 @@ By the end of this workshop, participants will be able to:
 
 ### Credits
 
-Some portions of this workshop are adapted from or inspired by the following instructional materials, made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/):
-- [Data Insights with Python for Beginners](https://github.com/ladieslearningcode/llc-intro-to-python) (Copyright © [Ladies Learning Code](https://www.canadalearningcode.ca/program/ladies-learning-code/)) 
-- [U of T Coders Data Carpentry Workshop](https://github.com/UofTCoders/2018-09-10-utoronto) (Copyright © [Software Carpentry](http://software-carpentry.org/))
-- [Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/) (Copyright © [Software Carpentry](http://software-carpentry.org/))
+Some portions of this workshop are adapted from or inspired by the following instructional materials:
+- [Data Insights with Python for Beginners](https://github.com/ladieslearningcode/llc-intro-to-python) (Copyright [Ladies Learning Code](https://www.canadalearningcode.ca/program/ladies-learning-code/) | [CC BY 4.0 license][CC4 license]) 
+- [U of T Coders Data Carpentry Workshop](https://github.com/UofTCoders/2018-09-10-utoronto) (Copyright [U of T Coders][UT Coders] / [Software Carpentry][Software Carpentry] | [CC BY 4.0 license][CC4 license])
+- [U of T Coders Cartography and Mapping Lesson](https://github.com/UofTCoders/studyGroup/tree/gh-pages/lessons/python/cartography) (Copyright  [U of T Coders][UT Coders] / [Mozilla Science Lab][mozilla] | [Apache License 2.0][Apache 2 license])
+- [Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/) (Copyright [Software Carpentry][Software Carpentry] | [CC BY 4.0 license][CC4 license])
+
+[Software Carpentry]: http://software-carpentry.org/
+[UT Coders]: https://github.com/UofTCoders
+[mozilla]: https://www.mozillascience.org/
+[CC4 license]: https://creativecommons.org/licenses/by/4.0/
+[Apache 2 license]: https://www.apache.org/licenses/LICENSE-2.0
+
