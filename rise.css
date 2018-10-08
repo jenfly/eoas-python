@@ -25,6 +25,7 @@ body.rise-enabled div.inner_cell>div.input_area {
 body.rise-enabled div.output_subarea.output_text.output_result {
     font-size: 140%;
 }
+
 body.rise-enabled div.output_subarea.output_text.output_stream.output_stdout {
   font-size: 140%;
 }
@@ -103,5 +104,7 @@ footer {
 
 /* Block quotes */
 body.rise-enabled blockquote {
-  width: 85%
+  width: 85%;
 }
+
+body.rise-enabled > div.fragment.visible.current-fragment > div.cell.code_cell.rendered.selected > div.output_wrapper > div.output > div > div.output_subarea.output_text.output_result > pre
