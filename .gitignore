@@ -1,5 +1,6 @@
 scratch/
 wrangling/environment-canada/data/
+data/raw/downloaded_*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
