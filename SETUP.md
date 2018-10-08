@@ -8,7 +8,8 @@ Alternatively, if you don't want to install any software on your computer yet, y
 
 
 #### Data and Workshop Materials
-When data files and other workshop materials are ready for download, I will send an announcement and post the link here.
+
+Please download the [zipped folder of workshop files](http://bit.ly/eoas-python-download) and unzip/extract. You can also [view the slides online](http://bit.ly/eoas-python-slides).
 
 ### Installation Option A: Full Anaconda Distribution
 
