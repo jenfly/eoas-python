@@ -1,0 +1,21 @@
+name: gmt-python
+channels:
+- conda-forge
+- conda-forge/label/dev
+- default
+dependencies:
+- python=3.6
+- gmt=6.0.0*
+- pip
+- ipython
+- ipykernel
+- numpy
+- pandas
+- xarray
+- packaging 
+- pytest
+- pytest-mpl
+- sphinx
+- jinja2
+- docutils
+
